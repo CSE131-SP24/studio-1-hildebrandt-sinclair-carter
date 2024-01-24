@@ -13,6 +13,7 @@ public class Average {
 		int n2 = in.nextInt();
 		double average = ((double)n1+(double)n2)/2;
 		System.out.println(average);
+		//System.out.println(average);
 	}
 
 }
