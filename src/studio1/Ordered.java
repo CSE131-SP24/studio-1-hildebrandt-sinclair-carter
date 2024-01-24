@@ -21,6 +21,7 @@ public class Ordered {
 			isOrdered = true;
 		}
 	System.out.println(isOrdered);
+	System.out.println("testing push");
 			
 	}
 
